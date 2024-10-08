@@ -1,0 +1,3 @@
+populateForNewDataProducts();
+
+oApp.to(ProductDetails);

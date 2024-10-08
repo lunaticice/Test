@@ -1,0 +1,10 @@
+if (typeof currentPage === "undefined" || currentPage === null || currentPage === "") { return; }  
+var formattedText; 
+
+if(currentPage === 1) {
+    formattedText = false;
+} else {
+    formattedText = true;
+}
+
+return formattedText;

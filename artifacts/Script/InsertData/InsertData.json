@@ -1,0 +1,20 @@
+{
+	"id": "a8410e77-0fec-44d8-8b8c-e564adf4edd8",
+	"createdAt": "2024-09-25T13:41:29.000Z",
+	"createdBy": "jrs@gefami.co.id",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "InsertData",
+	"ver": "24.9.25.2047",
+	"description": null,
+	"content": "",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": null,
+	"package": "c169e55c-f8f8-4262-98a2-c1f46a22e3a7"
+}
